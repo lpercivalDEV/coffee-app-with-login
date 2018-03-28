@@ -2,7 +2,7 @@
 This is a node.js and express application I made that allows baristas to login or create an account, submit customer orders, and check orders off as complete.
 
 ## Installation
-1. Open your terminal/shell.
+1. Open your terminal/shell
 2. Clone my repo by typing in `git clone https://github.com/lpercivalDEV/coffee-app-with-login.git`
 3. run `npm install`
 
